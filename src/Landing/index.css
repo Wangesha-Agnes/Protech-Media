@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Karma:wght@300;400;500;600;700&display=swap");
+
+h2{
+    font-size: 70px;
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+    text-align: start;
+
+}
+.about{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 320px;
+    margin-left: -18px;
+    
+}
+#music{
+    background-image: url("../images/music.jpg");
+    background-position: initial;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    padding-bottom: 10px;
+    font-family: "Karma", sans-serif;
+}
+
+@media (min-width: 280pxpx) and (max-width: 480px){
+    h2{
+        font-size: 50px;
+        color: white;
+        text-align: center;
+        padding-top: 150px;
+    
+    }
+    #music{
+        background-image: url("../images/music.jpg");
+        background-position: initial;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 900px;
+        padding-bottom: 10px;
+    }
+}
+
+@media screen  and (min-width: 490px) and (max-width: 690px){
+    h2{
+        font-size: 50px;
+        color: white;
+        text-align: center;
+        padding-top: 150px;
+    
+    }
+    #music{
+        background-image: url("../images/music.jpg");
+        background-position: initial;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 900px;
+        padding-bottom: 10px;
+    }
+
+}
+
+@media screen  and (min-width: 691px) and (max-width: 900px){
+    h2{
+        font-size: 50px;
+        color: white;
+        text-align: center;
+        padding-top: 150px;
+    
+    }
+    #music{
+        background-image: url("../images/music.jpg");
+        background-position: initial;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 900px;
+        padding-bottom: 10px;
+    }
+
+}
+
+@media screen  and (min-width: 1000px) and (max-width: 1200px){
+    h2{
+        font-size: 50px;
+        color: white;
+        text-align: center;
+        padding-top: 150px;
+    
+    }
+    #music{
+        background-image: url("../images/music.jpg");
+        background-position: initial;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 900px;
+        padding-bottom: 10px;
+    }
+
+}

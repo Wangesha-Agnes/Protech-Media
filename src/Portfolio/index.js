@@ -10,29 +10,29 @@ const Portfolio = () =>{
             <h1>About Us</h1>
             <div id='Images'>
                 <div>
-                <img src= "./images/Wangesha.jpg" alt='fridah' className='fridah'/>
+                <img src= "./Images/wangesha.jpg" alt='fridah' className='fridah'/>
                 <p>Agnes Wangesha</p>
                 <button><a href ={pdf1} target='"_blank' rel='noopener nonreferrer' className='profile' >View</a></button>
                 </div>
                 <div>
-                <img src= "./images/Karen.png" alt='fridah' className='fridah'/>
+                <img src= "./Images/karen.png" alt='fridah' className='fridah'/>
                 <p>KarenMaria Philip</p>
                 <button><a href ={pdf2} target='"_blank' rel='noopener nonreferrer' className='profile' >View</a></button>
                 </div>
                 <div>
-                <img src= "./images/Kibaara.png" alt='fridah' className='fridah'/>
+                <img src= "./Images/jane.png" alt='fridah' className='fridah'/>
                 <p>Jane Kibaara</p>
                 <button><a href ={pdf3} target='"_blank' rel='noopener nonreferrer' className='profile' >View</a></button>
                 </div>
                 </div>
                 <div id='Imagesset'>
                 <div>
-                <img src= "./images/Gladwell.png" alt='fridah' className='fridah'/>
+                <img src= "./Images/Shiku.png" alt='fridah' className='fridah'/>
                 <p>Gladwell Wanjiku</p>
                 <button><a href ={pdf4} target='"_blank' rel='noopener nonreferrer' className='profile' >View</a></button>
                 </div>
                 <div>
-                <img src= "./images/Fridah.png" alt='fridah' className='fridah'/>
+                <img src= "./Images/fridah.png" alt='fridah' className='fridah'/>
                 <p>Fridah Wothaya</p>
                 <button><a href ={pdf5} target='"_blank' rel='noopener nonreferrer' className='profile' >View</a></button>
                 </div>

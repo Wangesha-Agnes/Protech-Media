@@ -18,15 +18,15 @@ const Podcast = () =>{
         <div className="episodes">
             <div className="mics">
             <figcaption className="podcasts">Life Lately</figcaption>
-            <img src="/images/headphones.jpeg" className="mic" alt=""/>
+            <img src="/Images/headphones.jpeg" className="mic" alt=""/>
             <figcaption className="podcasts">Adulting</figcaption>
-            <img src="/images/headphones.jpeg" className="mic" alt=""/>
+            <img src="/Images/headphones.jpeg" className="mic" alt=""/>
             </div>
             <div className="mics2">
             <figcaption className="podcasts">Career</figcaption>
-            <img src="/images/headphones.jpeg" className="mic" alt=""/>
+            <img src="/Images/headphones.jpeg" className="mic" alt=""/>
             <figcaption className="podcasts">Getting ready for the workspace</figcaption>
-            <img src="/images/headphones.jpeg" className="mic" alt=""/>
+            <img src="/Images/headphones.jpeg" className="mic" alt=""/>
             </div>
         </div>
         </div>
